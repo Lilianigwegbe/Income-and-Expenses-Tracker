@@ -1,1 +1,1 @@
-# Expense-Tracker-App
+# Income and Expenses-Tracker
